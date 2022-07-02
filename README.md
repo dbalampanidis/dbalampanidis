@@ -1,4 +1,4 @@
-**Hey, I'm** [**Daniel**](https://www.linkedin.com/in/danielbalampanidis/)!
+## **Hey, I'm** [**Daniel**](https://www.linkedin.com/in/danielbalampanidis/)!
 
 <!--
 **dbalampanidis/dbalampanidis** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
